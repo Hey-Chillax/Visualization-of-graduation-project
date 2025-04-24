@@ -3,8 +3,11 @@
 **章节论文原文**：[Influence of optical property parameters on the emission patterns and spatio-temporal properties of nonlinear Thomson scattering](https://doi.org/10.1364/JOSAB.528405)\
 \
 [可视化1](https://github.com/Hey-Chillax/Visualization-of-graduation-project/blob/f1029e647b37eb0fb4baa108d738d531b13874ee/Visualization1.mp4):研究了激光峰值振幅$`a_0`$对NFTS的影响，以激光峰值振幅的变化过程为时间轴。每帧左侧为柱坐标系下电子最大辐射功率的全角度分布，右侧为电子轨迹和辐射功率曲线。每帧的色阶均由该帧的峰值辐射功率归一化。$`b_0=3\lambda_0`$，$`L=6\lambda_0`$。$`a_0`$以$`0.1`$为间隔从$`1`$变化到$`10`$，对应数值已标注在每一帧的中心。\
+
 [可视化2](https://github.com/Hey-Chillax/Visualization-of-graduation-project/blob/f1029e647b37eb0fb4baa108d738d531b13874ee/Visualization2.mp4):研究了激光束腰半径$`b_0`$对NFTS的影响，以激光束腰半径的变化过程为时间轴。每帧左侧为柱坐标系下电子最大辐射功率的全角度分布，右侧为电子轨迹和辐射功率曲线。每帧的色阶均由该帧的峰值辐射功率归一化。$`a_0=7`$，$`L=6\lambda_0`$。$`b_0`$以$`0.1\lambda_0`$为间隔从$`2\lambda_0`$变化到$`11\lambda_0`$，对应数值已标注在每一帧的中心。\
+
 [可视化3](https://github.com/Hey-Chillax/Visualization-of-graduation-project/blob/f1029e647b37eb0fb4baa108d738d531b13874ee/Visualization3.mp4):研究了激光脉冲宽度$`L`$对NFTS的影响（涡旋辐射），以激光脉冲宽度的变化过程为时间轴。每帧左侧为柱坐标系下电子最大辐射功率的全角度分布，右侧为电子轨迹和辐射功率曲线。每帧的色阶均由该帧的峰值辐射功率归一化。$`a_0=7`$，$`b_0=3\lambda_0`$，$`L`$以$`0.1\lambda_0`$为间隔从$`2\lambda_0`$变为$`11\lambda_0`$，对应数值已标注在每一帧的中心。\
+
 [可视化4](https://github.com/Hey-Chillax/Visualization-of-graduation-project/blob/f1029e647b37eb0fb4baa108d738d531b13874ee/Visualization4.mp4):研究了激光脉冲宽度$`L`$对NFTS的影响（圆环辐射），以激光脉冲宽度的变化过程为时间轴。每帧左侧为柱坐标系下电子最大辐射功率的全角度分布，右侧为电子轨迹和辐射功率曲线。每帧的色阶均由该帧的峰值辐射功率归一化。$`a_0=3`$，$`b_0=7\lambda_0`$，$`L`$以$`0.1\lambda_0`$为间隔从$`2\lambda_0`$变为$`11\lambda_0`$，对应数值已标注在每一帧的中心。
 
 ## 第五章  复合场中非线性前向汤姆逊散射的辐射模式演化
